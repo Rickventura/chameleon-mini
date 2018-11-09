@@ -5,6 +5,7 @@
  *      Author: Phillip Nash
  * modified by rickventura for texas 15693 tag-it STANDARD
  * write single block added.
+ * Functions CopyUid, CompareUid added to this file to encapsulate Tag-it features.
  */
 
 
